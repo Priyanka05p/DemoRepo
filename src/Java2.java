@@ -5,7 +5,7 @@ public class Java2 {
 
         byte age=10;
         age =23;
-        System.out.println(age+1);
+        System.out.println(age+2);
     }
 
 }
